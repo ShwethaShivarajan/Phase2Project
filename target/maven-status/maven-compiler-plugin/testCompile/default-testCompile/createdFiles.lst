@@ -1,0 +1,5 @@
+com\simplilearn\com\Phase2_Project\AppTest.class
+stepdefinitions\HomeStepDef.class
+stepdefinitions\TestRunner.class
+stepdefinitions\LoginStepDef.class
+stepdefinitions\Hooks.class
